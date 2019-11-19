@@ -1,6 +1,6 @@
 # Design Patterns in Ruby (Rubyによるデザインパターン)
 
-[Design Patterns in Ruby](http://designpatternsinruby.com/)で紹介されているデザインパターンのまとめ。著者の[Russ Olsen](http://russolsen.com/)は、Rubyに合わせて、オリジナルのGoFデザインパターン23個のうち14個を記述している。
+[Design Patterns in Ruby](http://designpatternsinruby.com/)で紹介されているデザインパターンのまとめ。著者の[Russ Olsen](http://russolsen.com/)は、Rubyに合わせて、オリジナルのGoFデザインパターン23個のうち14個を紹介している。
 
 ## デザインパターン
 
